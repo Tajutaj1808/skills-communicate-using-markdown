@@ -1,6 +1,6 @@
 # My First Day Learning Markdown
 
-## Things I Learned
+## Things to Practice
 - [ ] Practice writing more markdown every day
 
 ## Code Example
